@@ -1,0 +1,414 @@
+Job Title,Company,Location,Required Skills,Salary
+Software Engineer,Tech Solutions Inc.,San Francisco,CA,Python, Java, AWS, SQL,$100,000 - $150,000
+Data Analyst,Analytics Pro,New York,NY,SQL, Python, Tableau, Data Visualization,$80,000 - $120,000
+Marketing Manager,Global Reach,Chicago,IL,Digital Marketing, SEO, Social Media, Content Strategy,$75,000 - $110,000
+Project Manager,Build It Right,Austin,TX,Agile, Scrum, Project Planning, Risk Management,$90,000 - $130,000
+Sales Representative,Sales Force One,Los Angeles,CA,Sales, CRM, Negotiation, Client Relations,$60,000 - $90,000
+Human Resources Specialist,People First Co.,Seattle,WA,HR, Recruiting, Employee Relations, Onboarding,$65,000 - $95,000
+Web Developer,Digital Designs,Boston,MA,HTML, CSS, JavaScript, React,$85,000 - $125,000
+Financial Analyst,Finance Forward,Miami,FL,Financial Modeling, Excel, Accounting, Data Analysis,$70,000 - $105,000
+Customer Service Representative,Help Desk Now,Denver,CO,Customer Service, Communication, Problem Solving, Support,$45,000 - $65,000
+Network Engineer,Net Connect,Atlanta,GA,Networking, Cisco, Security, Troubleshooting,$95,000 - $140,000
+Business Analyst,Strategic Insights,Philadelphia,PA,Business Analysis, Requirements Gathering, Process Improvement, Stakeholder Management,$80,000 - $120,000
+Graphic Designer,Creative Minds,Portland,OR,Adobe Creative Suite, UI/UX, Branding, Visual Design,$60,000 - $90,000
+Data Scientist,Data Dynamics,Dallas,TX,Machine Learning, Python, R, Statistical Analysis,$110,000 - $160,000
+Systems Administrator,Tech Support Plus,Minneapolis,MN,Linux, Windows, Server Management, Automation,$85,000 - $125,000
+Content Writer,Write Right Now,San Diego,CA,Content Creation, SEO, Blogging, Editing,$55,000 - $80,000
+Accountant,Numbers Count,Charlotte,NC,Accounting, GAAP, Financial Reporting, Auditing,$70,000 - $105,000
+Software Tester,Quality Assured,Phoenix,AZ,Testing, QA, Automation, Bug Tracking,$75,000 - $110,000
+Database Administrator,Data Storage Solutions,Detroit,MI,SQL, Database Management, Performance Tuning, Backup/Recovery,$90,000 - $130,000
+IT Support Specialist,IT Help Desk,St. Louis,MO,Technical Support, Troubleshooting, Hardware, Software,$50,000 - $75,000
+Electrical Engineer,Power Systems Inc.,Tampa,FL,Electrical Engineering, Circuit Design, Power Systems, CAD,$95,000 - $140,000
+Mechanical Engineer,Mech Designs,Baltimore,MD,Mechanical Engineering, CAD, Product Design, Analysis,$90,000 - $130,000
+Chemical Engineer,Chem Solutions,Pittsburgh,PA,Chemical Engineering, Process Design, Safety, Analysis,$95,000 - $140,000
+Civil Engineer,Build Strong,Orlando,FL,Civil Engineering, Structural Design, Project Management, Surveying,$90,000 - $130,000
+Biomedical Engineer,Bio Tech Innovations,Raleigh,NC,Biomedical Engineering, Medical Devices, Research, Testing,$95,000 - $140,000
+Aerospace Engineer,Space Tech,Sacramento,CA,Aerospace Engineering, Propulsion, Aerodynamics, Design,$100,000 - $150,000
+Teacher,Education First,Houston,TX,Teaching, Curriculum Development, Classroom Management, Student Assessment,$50,000 - $75,000
+Nurse,Health Care Now,Nashville,TN,Nursing, Patient Care, Medical Records, Treatment,$65,000 - $95,000
+Pharmacist,Drug Store Plus,Columbus,OH,Pharmacy, Dispensing, Patient Counseling, Drug Interactions,$100,000 - $150,000
+Physician,Medical Group,Indianapolis,IN,Medicine, Diagnosis, Treatment, Patient Care,$150,000 - $250,000
+Lawyer,Legal Team,San Antonio,TX,Law, Legal Research, Litigation, Contracts,$120,000 - $200,000
+Architect,Design Build,San Jose,CA,Architecture, Design, Building Codes, Project Management,$95,000 - $140,000
+Real Estate Agent,Realty Group,Kansas City,MO,Real Estate, Sales, Negotiation, Client Relations,$60,000 - $90,000
+Insurance Agent,Insure All,Las Vegas,NV,Insurance, Sales, Client Service, Policy Management,$55,000 - $80,000
+Restaurant Manager,Food Service Inc.,Cincinnati,OH,Restaurant Management, Customer Service, Staff Management, Inventory,$50,000 - $75,000
+Retail Manager,Retail World,Virginia Beach,VA,Retail Management, Sales, Inventory, Customer Service,$45,000 - $65,000
+Logistics Manager,Supply Chain Solutions,Oakland,CA,Logistics, Supply Chain, Inventory Management, Transportation,$80,000 - $120,000
+Operations Manager,Operational Excellence,Tucson,AZ,Operations Management, Process Improvement, Efficiency, Team Leadership,$85,000 - $125,000
+Training Specialist,Learning and Development,Albuquerque,NM,Training, Curriculum Development, Facilitation, E-learning,$65,000 - $95,000
+Public Relations Specialist,PR Pros,Omaha,NE,Public Relations, Media Relations, Communication, Event Planning,$60,000 - $90,000
+Social Media Manager,Social Buzz,Fresno,CA,Social Media Marketing, Content Creation, Analytics, Community Management,$55,000 - $80,000
+UI/UX Designer,User Experience Design,Long Beach,CA,UI/UX Design, Wireframing, Prototyping, Usability Testing,$80,000 - $120,000
+Cybersecurity Analyst,Security First,Mesa,AZ,Cybersecurity, Network Security, Incident Response, Vulnerability Assessment,$90,000 - $130,000
+Cloud Engineer,Cloud Solutions,Atlanta,GA,Cloud Computing, AWS, Azure, GCP, Automation,$100,000 - $150,000
+DevOps Engineer,DevOps Dynamics,Seattle,WA,DevOps, Automation, CI/CD, Containerization,$105,000 - $155,000
+Product Manager,Product Innovations,San Francisco,CA,Product Management, Product Strategy, Roadmapping, Market Analysis,$110,000 - $160,000
+AI Engineer,Artificial Intelligence Labs,New York,NY,Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing,$120,000 - $200,000
+Data Engineer,Data Pipeline,Chicago,IL,Data Engineering, ETL, Data Warehousing, Big Data,$100,000 - $150,000
+Embedded Systems Engineer,Embedded Tech,Austin,TX,Embedded Systems, C/C++, Microcontrollers, Hardware Design,$95,000 - $140,000
+Robotics Engineer,Robo Dynamics,Los Angeles,CA,Robotics
+,San Jose,CA,Robotics, Python, C++, ROS, Automation,$105,000 - $155,000
+Data Architect,Data Structures,Dallas,TX,Data Architecture, Data Modeling, ETL, Cloud Data,$115,000 - $165,000
+Mobile App Developer,Mobile Masters,San Diego,CA,Mobile Development, iOS, Android, Swift, Kotlin,$90,000 - $130,000
+Business Intelligence Analyst,BI Insights,Phoenix,AZ,Business Intelligence, Data Warehousing, SQL, Reporting,$85,000 - $125,000
+Machine Learning Engineer,ML Solutions,Denver,CO,Machine Learning, Python, TensorFlow, PyTorch,$110,000 - $160,000
+UX Researcher,User Research Labs,Seattle,WA,UX Research, User Testing, Data Analysis, Usability,$80,000 - $120,000
+Technical Writer,Tech Write Now,Austin,TX,Technical Writing, Documentation, API, Software,$65,000 - $95,000
+Sales Engineer,Tech Sales Pro,Atlanta,GA,Sales Engineering, Technical Sales, Product Demonstrations, Presentations,$95,000 - $140,000
+Marketing Analyst,Marketing Metrics,Chicago,IL,Marketing Analytics, Data Analysis, Reporting, Campaign Analysis,$75,000 - $110,000
+Financial Planner,Financial Future,New York,NY,Financial Planning, Investments, Retirement Planning, Estate Planning,$80,000 - $120,000
+Compliance Officer,Compliance Solutions,San Francisco,CA,Compliance, Regulatory Requirements, Risk Assessment, Auditing,$90,000 - $130,000
+Sustainability Manager,Green Initiatives,Los Angeles,CA,Sustainability, Environmental Management, Reporting, Policy Development,$85,000 - $125,000
+Event Planner,Event Masters,Boston,MA,Event Planning, Coordination, Budgeting, Logistics,$60,000 - $90,000
+Translator,Language Services,Miami,FL,Translation, Interpretation, Multilingual, Cultural Awareness,$55,000 - $80,000
+Video Editor,Video Productions,Portland,OR,Video Editing, Adobe Premiere Pro, After Effects, Storytelling,$60,000 - $90,000
+Animator,Animation Studios,Dallas,TX,Animation, 2D/3D Animation, Storyboarding, Character Design,$70,000 - $105,000
+Sound Engineer,Audio Solutions,Minneapolis,MN,Sound Engineering, Audio Recording, Mixing, Mastering,$65,000 - $95,000
+Photographer,Photo Studios,San Diego,CA,Photography, Lighting, Editing, Composition,$50,000 - $75,000
+Journalist,News Network,Charlotte,NC,Journalism, Reporting, Writing, Interviewing,$60,000 - $90,000
+Librarian,Library Services,Phoenix,AZ,Library Science, Research, Information Management, Cataloging,$55,000 - $80,000
+Museum Curator,Museum Exhibits,Detroit,MI,Museum Studies, Curating, Research, Preservation,$65,000 - $95,000
+Park Ranger,National Parks,St. Louis,MO,Environmental Science, Conservation, Public Safety, Interpretation,$50,000 - $75,000
+Urban Planner,City Planning,Tampa,FL,Urban Planning, Land Use, Zoning, Transportation,$80,000 - $120,000
+Social Worker,Social Services,Baltimore,MD,Social Work, Counseling, Case Management, Advocacy,$60,000 - $90,000
+Psychologist,Mental Health Services,Pittsburgh,PA,Psychology, Counseling, Therapy, Assessment,$85,000 - $125,000
+Speech Therapist,Speech Therapy Services,Orlando,FL,Speech Therapy, Communication Disorders, Rehabilitation, Assessment,$75,000 - $110,000
+Occupational Therapist,Occupational Therapy Services,Raleigh,NC,Occupational Therapy, Rehabilitation, Patient Care, Assessment,$75,000 - $110,000
+Physical Therapist,Physical Therapy Services,Sacramento,CA,Physical Therapy, Rehabilitation, Patient Care, Assessment,$75,000 - $110,000
+Veterinarian,Animal Hospital,Houston,TX,Veterinary Medicine, Animal Care, Surgery, Diagnosis,$90,000 - $130,000
+Dentist,Dental Clinic,Nashville,TN,Dentistry, Oral Health, Treatment, Diagnosis,$100,000 - $150,000
+Optometrist,Eye Care Center,Columbus,OH,Optometry, Eye Care, Diagnosis, Treatment,$95,000 - $140,000
+Chiropractor,Chiropractic Clinic,Indianapolis,IN,Chiropractic, Spinal Manipulation, Rehabilitation, Patient Care,$80,000 - $120,000
+Dietitian,Nutrition Services,San Antonio,TX,Dietetics, Nutrition, Counseling, Meal Planning,$65,000 - $95,000
+Fitness Trainer,Fitness Center,San Jose,CA,Fitness Training, Exercise, Nutrition, Client Motivation,$50,000 - $75,000
+Massage Therapist,Massage Therapy Services,Kansas City,MO,Massage Therapy, Relaxation, Pain Management, Client Care,$45,000 - $65,000
+Beautician,Beauty Salon,Las Vegas,NV,Cosmetology, Hair Care, Skin Care, Makeup,$40,000 - $60,000
+Chef,Restaurant Kitchen,Cincinnati,OH,Culinary Arts, Cooking, Menu Planning, Food Safety,$55,000 - $80,000
+Baker,Bakery Shop,Virginia Beach,VA,Baking, Pastry, Bread Making, Food Preparation,$45,000 - $65,000
+Brewer,Brewery,Oakland,CA,Brewing, Beer Production, Quality Control, Inventory Management,$50,000 - $75,000
+Winemaker,Winery,Tucson,AZ,Winemaking, Wine Production, Quality Control, Vineyard Management,$60,000 - $90,000
+Farmer,Farm Operations,Albuquerque,NM,Agriculture, Crop Production, Livestock Management, Farm Equipment,$40,000 - $60,000
+Fisherman,Fishing Industry,Omaha,NE,Fishing, Seafood Harvesting, Boat Operation, Equipment Maintenance,$35,000 - $55,000
+Forester,Forestry Services,Fresno,CA,Forestry, Timber Management, Conservation, Environmental Science,$55,000 - $80,000
+Geologist,Geological Services,Long Beach,CA,Geology,
+Mineral Resources, Mining, Exploration, Resource Evaluation,$65,000 - $95,000
+Meteorologist,Weather Forecasting, Atmospheric Science, Climate Analysis, Data Interpretation,$70,000 - $105,000
+Astronomer,Astronomy Research, Observation, Data Analysis, Astrophysics,$85,000 - $125,000
+Marine Biologist,Marine Biology Research, Oceanography, Ecology, Conservation,$65,000 - $95,000
+Zoologist,Zoology Research, Animal Behavior, Ecology, Conservation,$60,000 - $90,000
+Botanist,Botany Research, Plant Biology, Ecology, Conservation,$60,000 - $90,000
+Geneticist,Genetics Research, Molecular Biology, Bioinformatics, Data Analysis,$90,000 - $130,000
+Immunologist,Immunology Research, Virology, Microbiology, Cell Biology,$95,000 - $140,000
+Pharmacologist,Pharmacology Research, Drug Development, Clinical Trials, Data Analysis,$100,000 - $150,000
+Toxicologist,Toxicology Research, Risk Assessment, Environmental Science, Data Analysis,$85,000 - $125,000
+Epidemiologist,Epidemiology Research, Public Health, Data Analysis, Statistical Modeling,$90,000 - $130,000
+Biostatistician,Biostatistics Research, Statistical Analysis, Data Modeling, Clinical Trials,$95,000 - $140,000
+Medical Writer,Medical Communications, Scientific Writing, Editing, Regulatory Documentation,$75,000 - $110,000
+Clinical Research Associate,Clinical Research, Data Management, Regulatory Compliance, Monitoring,$70,000 - $105,000
+Regulatory Affairs Specialist,Regulatory Compliance, FDA Regulations, Submissions, Auditing,$80,000 - $120,000
+Quality Control Analyst,Quality Control, Testing, Data Analysis, Documentation,$60,000 - $90,000
+Supply Chain Analyst,Supply Chain Management, Data Analysis, Inventory Control, Logistics,$75,000 - $110,000
+Procurement Specialist,Procurement, Negotiation, Vendor Management, Contract Administration,$70,000 - $105,000
+Logistics Coordinator,Logistics Operations, Shipping, Receiving, Inventory Management,$55,000 - $80,000
+Warehouse Manager,Warehouse Operations, Inventory Control, Staff Management, Logistics,$65,000 - $95,000
+Transportation Planner,Transportation Planning, Traffic Engineering, Public Transit, Data Analysis,$80,000 - $120,000
+Freight Broker,Freight Brokerage, Logistics, Negotiation, Customer Service,$60,000 - $90,000
+Customs Broker,Customs Brokerage, Import/Export, Regulatory Compliance, Documentation,$70,000 - $105,000
+Import/Export Specialist,International Trade, Import/Export, Logistics, Regulatory Compliance,$75,000 - $110,000
+Compliance Analyst,Compliance Management, Regulatory Requirements, Auditing, Risk Assessment,$80,000 - $120,000
+Risk Analyst,Risk Management, Financial Analysis, Data Modeling, Reporting,$85,000 - $125,000
+Fraud Analyst,Fraud Detection, Data Analysis, Investigation, Reporting,$75,000 - $110,000
+Information Security Analyst,Information Security, Network Security, Vulnerability Assessment, Incident Response,$90,000 - $130,000
+Data Privacy Officer,Data Privacy, GDPR, CCPA, Regulatory Compliance, Auditing,$95,000 - $140,000
+Business Continuity Planner,Business Continuity, Disaster Recovery, Risk Management, Planning,$85,000 - $125,000
+Emergency Management Specialist,Emergency Management, Disaster Response, Planning, Coordination,$70,000 - $105,000
+Safety Officer,Safety Management, OSHA Regulations, Risk Assessment, Training,$65,000 - $95,000
+Environmental Health Specialist,Environmental Health, Public Health, Regulatory Compliance, Inspections,$70,000 - $105,000
+Construction Manager,Construction Management, Project Management, Budgeting, Scheduling,$90,000 - $130,000
+Electrician,Electrical Systems, Wiring, Troubleshooting, Installation,$55,000 - $80,000
+Plumber,Plumbing Systems, Installation, Repair, Maintenance,$50,000 - $75,000
+HVAC Technician,HVAC Systems, Installation, Repair, Maintenance, Troubleshooting,$55,000 - $80,000
+Carpenter,Carpentry, Construction, Framing, Finishing,$50,000 - $75,000
+Welder,Welding, Fabrication, Metalwork, Construction,$50,000 - $75,000
+Machinist,Machining, CNC, Fabrication, Tooling,$55,000 - $80,000
+Mechanic,Mechanical Systems, Repair, Maintenance, Troubleshooting, Automotive,$50,000 - $75,000
+Appliance Repair Technician,Appliance Repair, Troubleshooting, Maintenance, Customer Service,$45,000 - $65,000
+Locksmith,Locksmithing, Security Systems, Installation, Repair,$45,000 - $65,000
+Painter,Painting, Interior/Exterior, Surface Preparation, Finishing,$40,000 - $60,000
+Landscaper,Landscaping, Lawn Care, Gardening, Maintenance,$40,000 - $60,000
+Cleaner,Cleaning Services, Janitorial, Maintenance, Sanitation,$35,000 - $55,000
+Security Guard,Security Services, Surveillance, Patrol, Access Control,$35,000 - $55,000
+Delivery Driver,Delivery Services, Driving, Navigation, Customer Service,$35,000 - $55,000
+Taxi Driver,Taxi Services, Driving, Navigation, Customer Service,$35,000 - $55,000
+Bus Driver,Bus Services, Driving, Passenger Safety, Customer Service,$40,000 - $60,000
+Truck Driver,Trucking, Driving, Logistics, Transportation,$45,000 - $65,000
+Pilot,Aviation, Flight Operations, Navigation, Safety,$100,000 - $200,000
+Flight Attendant,Aviation, Customer Service, Safety, Emergency Procedures,$40,000 - $60,000
+Air Traffic Controller,Air Traffic Control, Radar, Communication, Safety,$80,000 - $120,000
+Ship Captain,Maritime, Navigation, Ship Operations, Safety,$90,000 - $130,000
+Sailor,Maritime, Ship Maintenance, Navigation, Seamanship,$40,000 - $60,000
+Dockworker,Maritime, Cargo Handling, Loading/Unloading, Equipment Operation,$35,000 - $55,000
+Railroad Engineer,Railroad Operations, Train Operation, Safety, Maintenance,$60,000 - $90,000
+Railroad Conductor,Railroad Operations, Passenger Safety, Ticket Collection, Customer Service,$45,000 - $65,000
+Railroad Worker,Railroad Maintenance, Track Maintenance, Equipment Operation, Safety,$40,000 - $60,000
+Transit Operator,Public Transit, Driving, Passenger Safety, Customer Service,$40,000 - $60,000
+Courier,Courier Services, Delivery, Navigation, Customer Service,$35,000 - $55,000
+Messenger,Messenger Services, Delivery, Navigation, Customer Service,$35,000 - $55,000
+Mail Carrier,Postal Services, Delivery, Navigation, Customer Service,$40,000 - $60,000
+Telemarketer,Telemarketing, Sales, Customer Service, Communication,$30,000 - $45,000
+Customer Service Manager,Customer Service Management, Team Leadership, Problem Solving, Customer Relations,$60,000 - $90,000
+Call Center Supervisor,Call Center Management, Team Leadership, Performance Monitoring, Customer Service,$55,000 - $80,000
+Retail Sales Associate,Retail Sales, Customer
+Service, Customer Service, Sales, Communication, Problem Solving,$30,000 - $45,000
+Cashier,Retail, Customer Service, Cash Handling, Point of Sale,$25,000 - $35,000
+Bartender,Restaurant/Bar, Mixology, Customer Service, Inventory Management,$30,000 - $45,000
+Waiter/Waitress,Restaurant, Customer Service, Food Service, Table Service,$25,000 - $35,000
+Host/Hostess,Restaurant, Customer Service, Seating Guests, Reservations,$20,000 - $30,000
+Cook,Restaurant Kitchen, Food Preparation, Cooking Techniques, Sanitation,$30,000 - $45,000
+Dishwasher,Restaurant Kitchen, Dishwashing, Sanitation, Kitchen Maintenance,$20,000 - $30,000
+Janitor,Janitorial Services, Cleaning, Sanitation, Maintenance,$25,000 - $35,000
+Housekeeper,Housekeeping Services, Cleaning, Laundry, Guest Services,$25,000 - $35,000
+Nanny,Childcare, Child Supervision, Feeding, Diapering,$30,000 - $45,000
+Babysitter,Childcare, Child Supervision, Entertainment, Safety,$20,000 - $30,000
+Home Health Aide,Home Care, Patient Care, Personal Care, Assistance with Activities of Daily Living,$30,000 - $45,000
+Caregiver,Elder Care, Patient Care, Personal Care, Assistance with Activities of Daily Living,$30,000 - $45,000
+Personal Trainer,Fitness Training, Exercise, Nutrition, Client Motivation,$40,000 - $60,000
+Massage Therapist,Massage Therapy, Relaxation, Pain Management, Client Care,$45,000 - $65,000
+Aesthetician,Skin Care, Facials, Waxing, Body Treatments,$35,000 - $50,000
+Hair Stylist,Hairdressing, Cutting, Styling, Coloring,$30,000 - $45,000
+Manicurist/Pedicurist,Nail Care, Manicures, Pedicures, Nail Art,$25,000 - $35,000
+Barber,Barbering, Haircuts, Shaving, Styling,$30,000 - $45,000
+Makeup Artist,Makeup Application, Special Effects, Bridal Makeup, Fashion Makeup,$35,000 - $50,000
+Photographer,Photography, Lighting, Editing, Composition,$50,000 - $75,000
+Videographer,Videography, Video Production, Editing, Storytelling,$55,000 - $80,000
+Musician,Music Performance, Instruments, Composition, Recording,$35,000 - $55,000
+Singer,Music Performance, Vocal Technique, Stage Presence, Recording,$30,000 - $45,000
+Actor,Acting, Stage Performance, Film, Television,$40,000 - $60,000
+Dancer,Dance Performance, Choreography, Stage Presence, Technique,$35,000 - $55,000
+Artist,Visual Arts, Painting, Drawing, Sculpture,$30,000 - $45,000
+Writer,Writing, Creative Writing, Fiction, Non-Fiction,$40,000 - $60,000
+Poet,Poetry, Writing, Performance, Publication,$25,000 - $35,000
+Journalist,Journalism, Reporting, Writing, Interviewing,$60,000 - $90,000
+Editor,Editing, Proofreading, Copyediting, Manuscript Evaluation,$50,000 - $75,000
+Proofreader,Proofreading, Editing, Accuracy, Attention to Detail,$40,000 - $60,000
+Translator,Language Services, Translation, Interpretation, Multilingual, Cultural Awareness,$55,000 - $80,000
+Interpreter,Language Services, Interpretation, Communication, Cultural Awareness,$50,000 - $75,000
+Teacher,Education, Teaching, Curriculum Development, Classroom Management,$50,000 - $75,000
+Professor,Higher Education, Teaching, Research, Publication,$70,000 - $105,000
+Tutor,Education, Subject Matter Expertise, Instruction, Student Support,$30,000 - $45,000
+Librarian,Library Science, Research, Information Management, Cataloging,$55,000 - $80,000
+Archivist,Archives, Preservation, Cataloging, Research,$50,000 - $75,000
+Museum Curator,Museum Exhibits, Curating, Research, Preservation,$65,000 - $95,000
+Historian,History Research, Historical Analysis, Archival Research, Publication,$60,000 - $90,000
+Archaeologist,Archaeology, Excavation, Research, Analysis,$60,000 - $90,000
+Anthropologist,Anthropology, Cultural Studies, Ethnography, Research,$65,000 - $95,000
+Sociologist,Sociology, Social Research, Data Analysis, Theory,$70,000 - $105,000
+Political Scientist,Political Science, Political Theory, Research, Analysis,$75,000 - $110,000
+Economist,Economics, Economic Analysis, Research, Modeling,$80,000 - $120,000
+Psychologist,Psychology, Counseling, Therapy, Assessment,$85,000 - $125,000
+Psychiatrist,Psychiatry, Diagnosis, Treatment, Medication Management,$150,000 - $250,000
+Social Worker,Social Services, Counseling, Case Management, Advocacy,$60,000 - $90,000
+Counselor,Counseling, Therapy, Guidance, Support,$50,000 - $75,000
+Therapist,Therapy, Counseling, Treatment, Rehabilitation,$60,000 - $90,000
+Occupational Therapist,Occupational Therapy, Rehabilitation, Patient Care, Assessment,$75,000 - $110,000
+Physical Therapist,Physical Therapy, Rehabilitation, Patient Care, Assessment,$75,000 - $110,000
+Speech-Language Pathologist,Speech-Language Pathology, Communication Disorders, Rehabilitation, Assessment,$75,000 - $110,000
+Audiologist,Audiology, Hearing Assessment, Hearing Aids, Rehabilitation,$80,000 - $120,000
+Dietitian/Nutritionist,Nutrition, Diet Planning, Counseling, Weight Management,$60,000 - $90,000
+Chef,Restaurant Kitchen, Culinary Arts, Cooking, Menu Planning,$55,000 - $80,000
+Cook,Restaurant Kitchen, Food Preparation, Cooking Techniques, Sanitation,$30,000 - $45,000
+Baker,Bakery, Baking, Pastry, Bread Making,$45,000 - $65,000
+Barista,Coffee Shop, Coffee Brewing, Customer Service, Food Preparation,$25,000 - $35,000
+Bartender,Restaurant/Bar, Mixology, Customer Service, Inventory Management,$30,000 - $45,000
+Waiter/Waitress,Restaurant, Customer Service, Food Service, Table Service,$25,000 - $35,000
+Host/Hostess,Restaurant, Customer Service, Seating Guests, Reservations,$20,000 - $30,000
+Dishwasher,Restaurant Kitchen, Dishwashing, Sanitation, Kitchen Maintenance,$20,000 - $30,000
+Busboy/Busgirl,Restaurant, Clearing Tables, Setting Tables, Cleaning,$20,000 - $30,000
+Food Server,Restaurant, Customer Service, Food Service, Table Service,$25,000 - $35,000
+Food Preparer,Restaurant Kitchen, Food Preparation, Cooking, Sanitation,$25,000 - $35,000
+Line Cook,Restaurant Kitchen, Cooking, Food Preparation, Teamwork,$30,000 - $45,000
+Sous Chef,Restaurant Kitchen, Cooking, Menu Development, Supervision,$45,00
+Customer Success Manager,CustomerFirst Inc.,San Mateo,CA,Customer Relationship Management, Problem Solving, Communication, Product Knowledge,$75,000 - $110,000
+AI Research Scientist,Innovation Labs,Cambridge,MA,Machine Learning, Deep Learning, Python, Research,$120,000 - $200,000
+Mobile UI Designer,App Design Studio,Portland,OR,UI/UX Design, Sketch, Figma, Mobile Design,$70,000 - $105,000
+Cloud Security Engineer,Secure Cloud Solutions,Denver,CO,Cloud Security, AWS Security, Azure Security, Incident Response,$95,000 - $140,000
+Blockchain Developer,CryptoTech Inc.,Miami,FL,Blockchain, Solidity, Ethereum, Smart Contracts,$100,000 - $150,000
+Digital Marketing Specialist,MarketWise Group,Atlanta,GA,Digital Marketing, SEO, Social Media, Analytics,$65,000 - $95,000
+Financial Risk Manager,Risk Management Corp.,Philadelphia,PA,Financial Risk, Modeling, Analysis, Compliance,$90,000 - $130,000
+Healthcare Administrator,Health Systems Inc.,Minneapolis,MN,Healthcare Management, Operations, Compliance, Leadership,$80,000 - $120,000
+Industrial Designer,Product Design Co.,San Diego,CA,Industrial Design, CAD, Prototyping, Manufacturing,$75,000 - $110,000
+Legal Counsel,Law Firm Associates,Charlotte,NC,Legal, Contracts, Compliance, Litigation,$110,000 - $160,000
+Pharmaceutical Sales Representative,Pharma Sales Group,Phoenix,AZ,Pharmaceutical Sales, Product Knowledge, Relationship Building, Negotiation,$70,000 - $105,000
+Renewable Energy Engineer,Green Power Solutions,Detroit,MI,Renewable Energy, Solar, Wind, Project Management,$90,000 - $130,000
+Supply Chain Manager,Global Logistics Inc.,St. Louis,MO,Supply Chain, Logistics, Inventory Management, Procurement,$85,000 - $125,000
+Technical Recruiter,Talent Acquisition Co.,Tampa,FL,Technical Recruiting, Sourcing, Interviewing, Candidate Management,$65,000 - $95,000
+Video Game Designer,Game Dev Studios,Baltimore,MD,Game Design, Unity, Unreal Engine, Storytelling,$80,000 - $120,000
+Actuary,Insurance Analytics,Pittsburgh,PA,Actuarial Science, Risk Assessment, Modeling, Statistics,$95,000 - $140,000
+Biotechnologist,BioTech Innovations,Orlando,FL,Biotechnology, Research, Lab Techniques, Data Analysis,$85,000 - $125,000
+Corporate Trainer,Learning Solutions Inc.,Raleigh,NC,Training, Curriculum Development, Facilitation, E-learning,$60,000 - $90,000
+E-commerce Manager,Online Retail Group,Sacramento,CA,E-commerce, Online Marketing, Analytics, Customer Service,$75,000 - $110,000
+Fashion Designer,Fashion Forward Studios,Houston,TX,Fashion Design, Pattern Making, Sewing, Trend Analysis,$65,000 - $95,000
+Film Editor,Movie Magic Productions,Nashville,TN,Film Editing, Adobe Premiere Pro, Storytelling, Visual Effects,$70,000 - $105,000
+Geospatial Analyst,Mapping Solutions Inc.,Columbus,OH,Geospatial Analysis, GIS, Remote Sensing, Data Visualization,$80,000 - $120,000
+Hospital Administrator,Medical Center Group,Indianapolis,IN,Hospital Administration, Operations, Compliance, Patient Care,$90,000 - $130,000
+Instructional Designer,Educational Tech Co.,San Antonio,TX,Instructional Design, E-learning, Curriculum Development, Learning Management Systems,$75,000 - $110,000
+Investment Banker,Financial Services Corp.,San Jose,CA,Investment Banking, Financial Modeling, Mergers and Acquisitions, Valuation,$120,000 - $200,000
+Market Research Analyst,Market Insights Group,Kansas City,MO,Market Research, Data Analysis, Survey Design, Reporting,$70,000 - $105,000
+Multimedia Artist,Creative Media Studios,Las Vegas,NV,Multimedia Design, Animation, Graphic Design, Video Editing,$65,000 - $95,000
+Operations Analyst,Operational Excellence Co.,Cincinnati,OH,Operations Analysis, Process Improvement, Data Analysis, Reporting,$80,000 - $120,000
+Public Health Specialist,Public Health Services,Virginia Beach,VA,Public Health, Epidemiology, Health Education, Policy Analysis,$75,000 - $110,000
+Real Estate Developer,Property Development Group,Oakland,CA,Real Estate Development, Project Management, Financial Analysis, Negotiation,$90,000 - $130,000
+Social Media Strategist,Social Buzz Agency,Tucson,AZ,Social Media Strategy, Content Creation, Analytics, Community Management,$60,000 - $90,000
+Sustainability Consultant,Green Business Solutions,Albuquerque,NM,Sustainability Consulting, Environmental Management, Reporting, Policy Development,$85,000 - $125,000
+Technical Sales Engineer,Tech Sales Solutions,Omaha,NE,Technical Sales, Product Demonstrations, Presentations, Customer Relations,$95,000 - $140,000
+UX Writer,User Experience Writing,Fresno,CA,UX Writing, Content Strategy, User Research, Information Architecture,$70,000 - $105,000
+Web Content Manager,Digital Content Group,Long Beach,CA,Web Content Management, SEO, Content Strategy, Analytics,$65,000 - $95,000
+Wildlife Biologist,Conservation Research,Mesa,AZ,Wildlife Biology, Ecology, Conservation, Research,$60,000 - $90,000
+Agricultural Engineer,Farming Tech Solutions,Atlanta,GA,Agricultural Engineering, Farm Equipment, Irrigation, Crop Management,$85,000 - $125,000
+Appraiser,Real Estate Valuation,Seattle,WA,Real Estate Appraisal, Property Valuation, Market Analysis, Inspection,$75,000 - $110,000
+Audio Engineer,Sound Design Studios,San Francisco,CA,Audio Engineering, Recording, Mixing, Mastering, Sound Design,$70,000 - $105,000
+Automotive Engineer,Vehicle Design Co.,New York,NY,Automotive Engineering, Vehicle Design, Testing, Manufacturing,$90,000 - $130,000
+Aviation Maintenance Technician,Aircraft Maintenance Services,Chicago,IL,Aviation Maintenance, Aircraft Repair, Inspection, Troubleshooting,$65,000 - $95,000
+Cartographer,Mapping Services Inc.,Austin,TX,Cartography, Map Design, GIS, Data Visualization,$75,000 - $110,000
+Chemical Technician,Chemical Manufacturing Co.,Los Angeles,CA,Chemical Technician, Lab Techniques, Quality Control, Safety,$55,000 - $80,000
+Civil Engineering Technician,Construction Engineering Group,San Jose,CA,Civil Engineering Technician, Surveying, CAD, Construction Materials Testing,$60,000 - $90,000
+Clinical Data Manager,Clinical Research Data,Dallas,TX,Clinical Data Management, Data Entry, Data Validation, Regulatory Compliance,$70,000 - $105,000
+Compliance Manager,Regulatory Compliance Solutions,San Diego,CA,Compliance Management, Regulatory Requirements, Auditing, Risk Assessment,$85,000 - $125,000
+Conservation Scientist,Environmental Conservation,Phoenix,AZ,Conservation Science, Ecology, Habitat Restoration, Data Analysis,$65,000 - $95,000
+Construction Inspector,Building Inspection Services,Denver,CO,Construction Inspection, Building Codes, Safety, Quality Control,$60,000 - $90,000
+Corporate Communications Manager,Communications Strategy Group,Seattle,WA,Corporate Communications, Media Relations, Public Relations, Internal Communications,$80,000 - $120,000
+Credit
+Analyst,Financial Risk Assessment,Austin,TX,Credit Analysis, Financial Modeling, Risk Assessment, Reporting,$75,000 - $110,000
+Culinary Manager,Restaurant Management Group,Atlanta,GA,Culinary Management, Menu Planning, Kitchen Operations, Staff Training,$70,000 - $105,000
+Curriculum Developer,Educational Curriculum Solutions,Chicago,IL,Curriculum Development, Instructional Design, Learning Objectives, Assessment,$75,000 - $110,000
+Database Developer,Database Development Co.,New York,NY,Database Development, SQL, Data Modeling, Performance Tuning,$90,000 - $130,000
+Dental Hygienist,Dental Care Services,Los Angeles,CA,Dental Hygiene, Patient Care, Oral Health Education, Preventive Care,$60,000 - $90,000
+Desktop Support Technician,IT Support Services,San Jose,CA,Desktop Support, Troubleshooting, Hardware/Software, Customer Service,$50,000 - $75,000
+Document Control Specialist,Document Management Systems,Dallas,TX,Document Control, Records Management, Regulatory Compliance, Data Entry,$55,000 - $80,000
+Drafting Technician,Engineering Drafting Services,San Diego,CA,Drafting, CAD, Technical Drawings, Design Support,$55,000 - $80,000
+Early Childhood Educator,Early Childhood Education Center,Phoenix,AZ,Early Childhood Education, Child Development, Curriculum Planning, Classroom Management,$45,000 - $65,000
+Editorial Assistant,Publishing House Editorial,Denver,CO,Editorial Assistance, Proofreading, Copyediting, Research,$40,000 - $60,000
+Electrical Technician,Electrical Maintenance Services,Seattle,WA,Electrical Technician, Wiring, Troubleshooting, Maintenance, Installation,$55,000 - $80,000
+Electronics Engineer,Electronics Design Co.,San Francisco,CA,Electronics Engineering, Circuit Design, PCB Design, Testing,$90,000 - $130,000
+Energy Auditor,Energy Efficiency Services,Portland,OR,Energy Auditing, Building Analysis, Energy Conservation, Reporting,$60,000 - $90,000
+Environmental Engineer,Environmental Engineering Solutions,Miami,FL,Environmental Engineering, Water Treatment, Air Pollution Control, Remediation,$90,000 - $130,000
+Estate Planner,Financial Planning Services,Boston,MA,Estate Planning, Trusts, Wills, Tax Planning, Financial Analysis,$85,000 - $125,000
+Facilities Manager,Facilities Management Services,Philadelphia,PA,Facilities Management, Maintenance, Operations, Budgeting,$80,000 - $120,000
+Fashion Merchandiser,Retail Fashion Merchandising,Minneapolis,MN,Fashion Merchandising, Visual Merchandising, Inventory Management, Trend Analysis,$60,000 - $90,000
+Field Service Technician,Technical Field Services,San Diego,CA,Field Service, Troubleshooting, Repair, Customer Service,$55,000 - $80,000
+Financial Controller,Corporate Finance Solutions,Charlotte,NC,Financial Control, Accounting, Financial Reporting, Budgeting,$95,000 - $140,000
+Firefighter,Fire and Rescue Services,Phoenix,AZ,Firefighting, Emergency Response, Rescue, Prevention,$50,000 - $75,000
+Fitness Instructor,Fitness Training Centers,Detroit,MI,Fitness Instruction, Group Fitness, Personal Training, Exercise Programming,$40,000 - $60,000
+Flight Dispatcher,Aviation Dispatch Services,St. Louis,MO,Flight Dispatch, Flight Planning, Weather Analysis, Communication,$70,000 - $105,000
+Food Scientist,Food Research and Development,Tampa,FL,Food Science, Product Development, Quality Control, Sensory Analysis,$80,000 - $120,000
+Fundraiser,Nonprofit Fundraising Services,Baltimore,MD,Fundraising, Donor Relations, Grant Writing, Event Planning,$60,000 - $90,000
+Game Developer,Video Game Development Studios,Pittsburgh,PA,Game Development, Programming, Game Design, Testing,$90,000 - $130,000
+General Contractor,Construction Contracting Services,Orlando,FL,General Contracting, Project Management, Construction, Subcontractor Management,$90,000 - $130,000
+Genetic Counselor,Genetic Counseling Services,Raleigh,NC,Genetic Counseling, Patient Education, Risk Assessment, Family History Analysis,$75,000 - $110,000
+Geotechnical Engineer,Geotechnical Engineering Solutions,Sacramento,CA,Geotechnical Engineering, Soil Mechanics, Foundation Design, Site Investigation,$90,000 - $130,000
+Grant Writer,Grant Writing Services,Houston,TX,Grant Writing, Proposal Development, Research, Budgeting,$60,000 - $90,000
+Hazardous Materials Technician,Hazardous Materials Services,Nashville,TN,Hazardous Materials Handling, Safety, Regulatory Compliance, Emergency Response,$60,000 - $90,000
+Health Educator,Public Health Education Services,Columbus,OH,Health Education, Program Development, Community Outreach, Training,$60,000 - $90,000
+Healthcare Consultant,Healthcare Consulting Services,Indianapolis,IN,Healthcare Consulting, Process Improvement, Strategy, Compliance,$85,000 - $125,000
+Heavy Equipment Operator,Construction Equipment Operations,San Antonio,TX,Heavy Equipment Operation, Construction, Maintenance, Safety,$50,000 - $75,000
+Horticulturist,Horticulture Services,San Jose,CA,Horticulture, Plant Care, Landscaping, Garden Design,$55,000 - $80,000
+Hotel Manager,Hotel Management Services,Kansas City,MO,Hotel Management, Operations, Customer Service, Staff Management,$70,000 - $105,000
+Hydrologist,Hydrology Research Services,Las Vegas,NV,Hydrology, Water Resources, Modeling, Data Analysis,$80,000 - $120,000
+Industrial Engineer,Industrial Engineering Solutions,Cincinnati,OH,Industrial Engineering, Process Improvement, Efficiency, Lean Manufacturing,$90,000 - $130,000
+Information Architect,Information Architecture Services,Virginia Beach,VA,Information Architecture, User Experience, Content Strategy, Taxonomy,$80,000 - $120,000
+Insurance Underwriter,Insurance Underwriting Services,Oakland,CA,Insurance Underwriting, Risk Assessment, Policy Analysis, Data Analysis,$80,000 - $120,000
+Interior Designer,Interior Design Studios,Tucson,AZ,Interior Design, Space Planning, Color Coordination, Furniture Selection,$65,000 - $95,000
+IT Project Manager,IT Project Management Services,Albuquerque,NM,IT Project Management, Agile, Scrum, Project Planning, Risk Management,$95,000 - $140,000
+Jeweler,Jewelry Design and Repair,Omaha,NE,Jewelry Design, Repair, Fabrication, Gem Setting,$45,000 - $65,000
+Junior Accountant,Accounting Services,Fresno,CA,Accounting, Data Entry, Financial Reporting, Reconciliation,$50,000 - $75,000
+Laboratory Manager,Laboratory Management Services,Long Beach,CA,Laboratory Management, Operations, Quality Control, Safety,$75,000 - $110,000
+Land Surveyor,Land Surveying Services,Mesa,AZ,Land Surveying, Surveying, Mapping, Data Collection,$70,000 - $105,000
+Learning and Development Specialist,Learning and Development Services,Atlanta,GA,Learning and Development, Training, E-learning, Instructional Design,$70,000 - $105,000
+Leasing Agent,Real Estate Leasing Services,Seattle,WA,Leasing, Sales, Customer Service, Negotiation,$50,000 - $75,000
+Legal Assistant,Legal Support Services,San Francisco,CA,Legal Assistance, Document Preparation, Case Management, Research,$50,000 - $75,000
+Logistics Analyst,Logistics Analysis Services,New York,NY,Logistics Analysis, Supply Chain, Data Analysis, Reporting,$75,000 - $110,000
+Maintenance Manager,Maintenance Management Services,Chicago,IL,Maintenance Management, Scheduling, Budgeting, Team Leadership,$75,000 - $110,000
+Manufacturing Engineer,Manufacturing Engineering Solutions,Austin,TX,Manufacturing Engineering, Process Improvement, Lean Manufacturing, Quality Control,$90,000 - $130,000
+Marine Engineer,Marine Engineering Services,
+Los Angeles,CA,Marine Engineering, Ship Design, Propulsion, Naval Architecture,$90,000 - $130,000
+Materials Engineer,Materials Engineering Solutions,San Jose,CA,Materials Engineering, Testing, Analysis, Research,$85,000 - $125,000
+Math Teacher,Education Teaching Services,Dallas,TX,Math Teaching, Curriculum Development, Instruction, Assessment,$50,000 - $75,000
+Mechanical Designer,Mechanical Design Services,San Diego,CA,Mechanical Design, CAD, Product Development, Analysis,$75,000 - $110,000
+Media Buyer,Advertising Media Buying,Phoenix,AZ,Media Buying, Advertising, Negotiation, Analytics,$65,000 - $95,000
+Medical Assistant,Healthcare Medical Assistance,Denver,CO,Medical Assistance, Patient Care, Clinical Procedures, Administrative Tasks,$35,000 - $55,000
+Medical Coder,Healthcare Medical Coding,Seattle,WA,Medical Coding, ICD-10, CPT, HCPCS, Billing,$45,000 - $65,000
+Medical Laboratory Technician,Healthcare Laboratory Services,San Francisco,CA,Medical Laboratory Technology, Testing, Analysis, Equipment Maintenance,$50,000 - $75,000
+Medical Receptionist,Healthcare Medical Reception,Portland,OR,Medical Reception, Patient Check-in, Scheduling, Customer Service,$30,000 - $45,000
+Mental Health Counselor,Healthcare Mental Health Counseling,Miami,FL,Mental Health Counseling, Therapy, Assessment, Treatment Planning,$60,000 - $90,000
+Metallurgical Engineer,Metallurgical Engineering Solutions,Boston,MA,Metallurgical Engineering, Materials Science, Testing, Analysis,$85,000 - $125,000
+Meteorological Technician,Weather Forecasting Services,Philadelphia,PA,Meteorological Technology, Data Collection, Observation, Analysis,$45,000 - $65,000
+Microbiologist,Microbiology Research Services,Minneapolis,MN,Microbiology, Research, Lab Techniques, Data Analysis,$65,000 - $95,000
+Mortgage Loan Officer,Financial Mortgage Services,San Diego,CA,Mortgage Lending, Loan Origination, Customer Service, Sales,$60,000 - $90,000
+Music Teacher,Education Music Teaching Services,Charlotte,NC,Music Teaching, Instruction, Performance, Curriculum Development,$45,000 - $65,000
+Network Administrator,IT Network Administration,Phoenix,AZ,Network Administration, Network Security, Troubleshooting, Server Management,$80,000 - $120,000
+Nuclear Engineer,Nuclear Engineering Solutions,Detroit,MI,Nuclear Engineering, Reactor Operations, Safety, Design,$95,000 - $140,000
+Nurse Practitioner,Healthcare Advanced Nursing,St. Louis,MO,Nurse Practitioner, Patient Care, Diagnosis, Treatment, Prescribing,$90,000 - $130,000
+Nursing Assistant,Healthcare Nursing Assistance,Tampa,FL,Nursing Assistance, Patient Care, Personal Care, Assistance with Activities of Daily Living,$30,000 - $45,000
+Occupational Health and Safety Specialist,Safety Management Services,Baltimore,MD,Occupational Health and Safety, OSHA, Risk Assessment, Training,$65,000 - $95,000
+Operations Research Analyst,Operations Research Services,Pittsburgh,PA,Operations Research, Data Analysis, Modeling, Optimization,$85,000 - $125,000
+Optician,Healthcare Optical Services,Orlando,FL,Opticianry, Eyewear Dispensing, Customer Service, Sales,$40,000 - $60,000
+Paralegal,Legal Paralegal Services,Raleigh,NC,Paralegal Assistance, Legal Research, Document Preparation, Case Management,$50,000 - $75,000
+Park Naturalist,Environmental Park Services,Sacramento,CA,Park Naturalism, Environmental Education, Interpretation, Conservation,$40,000 - $60,000
+Payroll Specialist,Financial Payroll Services,Houston,TX,Payroll Processing, Tax Reporting, Compliance, Data Entry,$50,000 - $75,000
+Personal Financial Advisor,Financial Planning Services,Nashville,TN,Financial Advising, Investment Management, Retirement Planning, Financial Planning,$80,000 - $120,000
+Petroleum Engineer,Petroleum Engineering Solutions,Columbus,OH,Petroleum Engineering, Drilling, Production, Reservoir Management,$100,000 - $150,000
+Photographic Equipment Repairer,Technical Repair Services,Indianapolis,IN,Photographic Equipment Repair, Troubleshooting, Maintenance, Calibration,$40,000 - $60,000
+Physical Therapist Assistant,Healthcare Physical Therapy Assistance,San Antonio,TX,Physical Therapist Assistance, Patient Care, Rehabilitation, Exercise Instruction,$45,000 - $65,000
+Physician Assistant,Healthcare Advanced Practice,San Jose,CA,Physician Assistant, Patient Care, Diagnosis, Treatment, Prescribing,$90,000 - $130,000
+Plant Manager,Manufacturing Plant Management,Kansas City,MO,Plant Management, Operations, Production, Quality Control,$90,000 - $130,000
+Police Officer,Law Enforcement Services,Las Vegas,NV,Law Enforcement, Patrol, Investigation, Community Policing,$60,000 - $90,000
+Postal Service Clerk,Postal Services Customer Service,Cincinnati,OH,Postal Service Clerk, Customer Service, Mail Processing, Sales,$30,000 - $45,000
+Precision Instrument and Equipment Repairer,Technical Repair Services,Virginia Beach,VA,Precision Instrument Repair, Calibration, Maintenance, Troubleshooting,$45,000 - $65,000
+Presser,Textile Pressing Services,Oakland,CA,Pressing, Ironing, Garment Care, Quality Control,$25,000 - $35,000
+Print Binding and Finishing Worker,Printing Services Finishing,Tucson,AZ,Print Binding, Finishing, Equipment Operation, Quality Control,$30,000 - $45,000
+Private Detective and Investigator,Investigation Services,Albuquerque,NM,Private Investigation, Surveillance, Research, Reporting,$50,000 - $75,000
+Probation Officer and Correctional Treatment Specialist,Correctional Services Treatment,Omaha,NE,Probation, Correctional Treatment, Case Management, Counseling,$55,000 - $80,000
+Procurement Manager,Procurement Management Services,Fresno,CA,Procurement Management, Negotiation, Vendor Management, Contract Administration,$80,000 - $120,000
+Producer,Media Production Services,Long Beach,CA,Production, Management, Coordination, Budgeting,$70,000 - $105,000
+Property Manager,Real Estate Property Management,Mesa,AZ,Property Management, Tenant Relations, Maintenance, Leasing,$60,000 - $90,000
+Psychiatric Technician,Healthcare Psychiatric Care,Atlanta,GA,Psychiatric Technology, Patient Care, Observation, Monitoring,$40,000 - $60,000
+Public Relations Manager,Public Relations Management,Seattle,WA,Public Relations, Media Relations, Communication, Event Planning,$70,000 - $105,000
+Purchasing Agent,Purchasing Services,San Francisco,CA,Purchasing, Procurement, Vendor Management, Negotiation,$65,000 - $95,000
+Quality Assurance Analyst,Quality Assurance Services,New York,NY,Quality Assurance, Testing, Inspection, Process Improvement,$65,000 - $95,000
+Radiation Therapist,Healthcare Radiation Therapy,Chicago,IL,Radiation Therapy, Patient Care, Treatment Planning, Equipment Operation,$80,000 - $120,000
+Radio Announcer,Media Radio Announcing,Austin,TX,Radio Announcing, Broadcasting, Communication, Content Creation,$40,000 - $60,000
+Real Estate Broker,Real Estate Brokerage Services,Los Angeles,CA,Real Estate Brokerage, Sales, Negotiation, Client Relations,$80,000 - $120,000
+Recreation Worker,Recreation Services,San Jose,CA,Recreation, Program Planning, Activity Leadership, Customer Service,$30,000 - $45,000
+Refrigeration Mechanic and Installer,HVAC Refrigeration Services,Dallas,TX,Refrigeration, Installation, Repair, Maintenance, Troubleshooting,$50,000 - $75,000
+Registered Nurse,Healthcare Registered Nursing,San Diego,CA,Registered Nursing, Patient Care, Assessment, Treatment, Medication Administration,$70,000 - $105,000
+Rehabilitation Counselor,Healthcare Rehabilitation Counseling,Phoenix,AZ,Rehabilitation Counseling, Counseling, Case Management, Assessment,$55,000 - $80,000
+Respiratory Therapist,Healthcare Respiratory Therapy,Denver,CO,Respiratory Therapy, Patient Care, Ventilation, Airway Management,$70,000 - $105,000
+Retail Buyer,Retail Buying Services,Seattle,WA,Retail Buying, Merchandising, Inventory Management, Vendor Relations,$60,000 - $90,000
+Sales Manager,Sales Management Services,San Francisco,CA,Sales Management, Team Leadership, Sales Strategy, Customer Relationship Management,$80,000 - $120,000
+School Counselor,Education School Counseling,Portland,OR,School Counseling, Guidance, Student Support, Assessment,$55,000 - $80,000
+Securities and Financial Services Sales Agent,Financial Sales Services,Miami,FL,Securities Sales, Financial Services, Customer Service, Sales,$70,000 - $105,000
+Security and Fire Alarm Systems Installer,Technical Installation Services,Boston,MA,Security Systems Installation, Fire Alarm Systems, Wiring, Troubleshooting,$50,000 - $75,000
+Social and Community Service Manager,Community Service Management,Philadelphia,PA,Social Service Management, Program Development, Community Outreach, Grant Writing,$65,000 - $95,000
+Software Quality Assurance Engineer and Tester,Software QA Testing Services,Minneapolis,MN,Software QA, Testing, Test Planning, Test Execution,$75,000 - $110,000
+Solar Photovoltaic Installer,Renewable Energy Installation Services,San Diego,CA,Solar Installation, Photovoltaic Systems, Wiring, Roofing,$50,000 - $75,000
+Special Education Teacher,Education Special Education,Charlotte,NC,Special Education, Instruction, Individualized Education Programs (IEPs), Behavior Management,$55,000 - $80,000
+Statistician,Statistical Analysis Services,Phoenix,AZ,Statistics, Data Analysis, Statistical Modeling, Research,$80,000 - $120,000
+Substance Abuse and Behavioral Disorder Counselor,Healthcare Substance Abuse Counseling,Detroit,MI,Substance Abuse Counseling, Behavioral Disorder Counseling, Therapy, Case Management,$55,000 - $80,000
+Surgeon,Healthcare Surgical Services,St. Louis,MO,Surgery, Diagnosis, Treatment, Pre- and Post-operative Care,$200,000 - $300,000
+Survey Researcher,Research Survey Services,Tampa,FL,Survey Research, Data Collection, Data Analysis, Reporting,$60,000 - $90,000
+Technical Sales Representative,Technical Sales Services,Baltimore,MD,Technical Sales, Product Knowledge, Sales, Customer Service,$70,000 - $105,000
+Telecommunications Equipment Installer and Repairer,Technical Installation and Repair Services,Pittsburgh,PA,Telecommunications Equipment Installation, Repair, Wiring, Troubleshooting,$50,000 - $75,000
+Television, Video, and Motion Picture Camera Operator and Editor,Media Camera Operation and Editing,Orlando,FL,Camera Operation, Editing, Video Production, Storytelling,$55,000 - $80,000
+Tile and Stone Setter,Construction Tile and Stone Setting,Raleigh,NC,Tile Setting, Stone Setting, Installation, Finishing,$45,000 - $65,000
+Training and Development Manager,Learning and Development Management,Sacramento,CA,Training Management, Curriculum Development, Facilitation, E-learning,$75,000 - $110,000
+Transportation, Storage, and Distribution Manager,Logistics Management Services,Houston,TX,Transportation Management, Logistics, Distribution, Supply Chain,$80,000 - $120,000
+Travel Agent,Travel Services,Nashville,TN,Travel Planning, Customer Service, Sales, Booking,$40,000 - $60,000
+Veterinary Technician,Healthcare Veterinary Assistance,Columbus,OH,Veterinary Technology, Animal Care, Treatment, Laboratory Procedures,$35,000 - $55,000
+Vocational Counselor,Education Vocational Counseling,Indianapolis,IN,Vocational Counseling, Guidance, Career Planning, Assessment,$50,000 - $75,000
+Water and Wastewater Treatment Plant and System Operator,Environmental Water Treatment,San Antonio,TX,Water Treatment, Wastewater Treatment, Equipment Operation, Maintenance,$45,000 - $65,000
+Web Administrator,IT Web Administration,San Jose,CA,Web Administration, Server Management, Website Maintenance, Troubleshooting,$65,000 - $95,000
+Wind Turbine Technician,Renewable Energy Wind Turbine,Kansas City,MO,Wind Turbine Maintenance, Repair, Inspection, Troubleshooting,$55,000 - $80,000
+Writer and Author,Writing and Authoring Services,Las Vegas,NV,Writing, Authoring, Content Creation, Editing,$50,000 - $75,000
+Youth Services Specialist,Community Youth Services,Cincinnati,OH,Youth Services, Counseling, Mentoring, Program Development,$40,000 - $60,000
+Zookeeper,Animal Care Services,Virginia Beach,VA,Zookeeping, Animal Care, Habitat Maintenance, Public Education,$35,000 - $55,000
